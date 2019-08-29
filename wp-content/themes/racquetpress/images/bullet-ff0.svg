@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>bullet-ff0</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="48.323499%" cy="50%" fx="48.323499%" fy="50%" r="50.1809513%" id="radialGradient-1">
+            <stop stop-color="#FFFF00" offset="0%"></stop>
+            <stop stop-color="#FFFF1E" stop-opacity="0.4" offset="64.3753986%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Symbols/roughs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Forms-&amp;-buttons" transform="translate(-1159.000000, -265.000000)">
+            <g id="bullet-ff0" transform="translate(1158.538104, 264.485576)">
+                <ellipse id="fuzzy-ball" fill="url(#radialGradient-1)" cx="11.8229286" cy="11.9219125" rx="10.9406523" ry="11.0322496"></ellipse>
+                <path d="M15.2932596,22.9345975 C14.9605416,22.6807275 16.4561334,22.101388 16.8737186,21.2681784 C4.73751404,27.457295 -0.361462529,16.2098325 1.3084928,9.39576076 C1.4157341,8.95885025 1.72588519,8.22052922 2.05378125,8.32465635 C2.57571462,8.5180903 2.00228228,8.61721317 1.79802233,9.79475437 C0.570340913,16.8779014 7.92813556,26.1779363 17.5596,20.1075747 C22.4498804,9.81226929 14.1008753,4.57203773 6.64586909,7.96742908 C-1.2330874,11.5560619 2.21888656,0.635801198 12.4531011,1.00938856 C17.9565471,1.2103289 22.6651345,5.49782608 22.7685182,11.1039461 C22.8271538,14.2368062 20.6011253,18.679628 18.0367852,20.6730563 C17.291111,21.8633006 15.8003412,23.3212729 15.2932596,22.9345975 M11.0591571,1.71883885 C5.52658626,2.11013359 0.00539529474,8.19416062 6.76526183,5.91433461 C16.1479111,2.75010164 22.8373764,10.1694966 18.5733775,19.3638645 C25.394387,11.8624767 19.217211,1.14200148 11.0591571,1.71883885" id="seams" fill="#446655"></path>
+            </g>
+        </g>
+    </g>
+</svg>
